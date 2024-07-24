@@ -3,3 +3,5 @@
 
 This repository will contain the code for the conference paper presented at the *"The 2nd World Conference on eXplainable Artificial Intelligence"*
 
+
+![Model overview](images/Model_Overview.pdf)
